@@ -34,10 +34,10 @@ d3.csv(csvUrl).then(function(data) {
   const svg = d3.select('#chart').append('svg').attr('width', width).attr('height', height)
   
   const regionColors = {
-    "africa": 'green',
-    "asia": "gold",
-    "americas": "red",
-    "europe": 'blue'
+    "africa": '#D7FFF1',
+    "asia": "#AAFCB8",
+    "americas": "#8CD790",
+    "europe": '#77AF9C'
   }  
   
   let year = yearExtent[0]
@@ -69,7 +69,7 @@ d3.csv(csvUrl).then(function(data) {
         const fill = regionColors[region]
         return fill
       })
-      .attr('stroke', 'black')
+      .attr('stroke', '#285943')
             
  /* changing the stroke for a particular country
  , function(d) {
