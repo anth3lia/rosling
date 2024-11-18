@@ -1,8 +1,10 @@
 # About
 A recreation of Hans Rosling's animated chart on global population trends
 
+![](https://github.com/anth3lia/rosling/blob/main/rosling.gif)
+
 # Legend
-Each bubble is a country. Bubble sizes indicate a country's population size.
+Each bubble is a recognized country. Bubble sizes indicate a country's population size.
 
 ## Axes
 <b>X-axis:</b> Income per person </br>
@@ -14,3 +16,4 @@ Regions are differentiated by color:
 - Africa
 - Europe
 - Americas
+
