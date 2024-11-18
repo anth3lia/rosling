@@ -10,6 +10,6 @@ Regions are differentiated by color:
 - Europe
 - Americas
 
-Bubble size indicate population size
+Bubble sizes indicate a country's population size
 X-axis: income per person
 Y-axis: life expectancy at birth (years)
