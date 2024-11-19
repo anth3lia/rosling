@@ -1,6 +1,5 @@
 const csvUrl = "https://gist.githubusercontent.com/jeremiak/c564a2227fcc82326b37d0166fd777c7/raw/4da27d4cbbf48abe85bf52936eabfe20e04c4fa7/life_expectancy_gdp_pop_year.csv"
 
-// use .then because d3.csv is "asynchronous"
 d3.csv(csvUrl).then(function(data) {
   const width = 800
   const height = 400
