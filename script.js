@@ -70,7 +70,7 @@ d3.csv(csvUrl).then(function(data) {
       })
       .attr('stroke', '#285943')
             
- /* changing the stroke for a particular country
+ /* change stroke color for a particular bubble
  , function(d) {
         const country = d.country
         if (country === 'China') {
