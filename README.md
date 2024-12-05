@@ -3,7 +3,7 @@ A recreation of Hans Rosling's animated chart on global population trends
 
 ![](https://github.com/anth3lia/rosling/blob/main/rosling.gif)
 
-# Legend
+## Legend
 Each bubble is a recognized country. Bubble sizes indicate a country's population size.
 
 ## Axes
@@ -17,3 +17,7 @@ Regions are differentiated by color:
 - Europe
 - Americas
 
+# Another Take
+Another take on this is available [here](https://public.flourish.studio/visualisation/20634630/).
+
+<img src="https://public.flourish.studio/visualisation/20634630/thumbnail" width="100%" alt="scatter visualization" />
