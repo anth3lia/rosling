@@ -11,7 +11,7 @@ Each bubble is a recognized country. Bubble sizes indicate a country's populatio
 <b>Y-axis:</b> Life expectancy at birth (years)
 
 ## Colors
-Regions are differentiated by color and are stupidly NOT in style.css.
+Regions are differentiated by color and not in style.css.
 - Asia
 - Africa
 - Europe
