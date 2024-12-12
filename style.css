@@ -1,7 +1,29 @@
+:root {
+  /* Color Palette */
+  --mint-light: #D7FFF1;
+  --mint-medium: #AAFCB8;
+  --green-medium: #8CD790;
+  --green-dark: #77AF9C;
+}
+
 svg {
   border: 1px solid black;
 }
 
 body {
   font-family: Arial, Roboto, sans-serif;
+}
+
+/* Region Colors */
+.region-africa {
+  fill: var(--mint-light);
+}
+.region-asia {
+  fill: var(--mint-medium);
+}
+.region-americas {
+  fill: var(--green-medium);
+}
+.region-europe {
+  fill: var(--green-dark);
 }
