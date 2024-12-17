@@ -18,6 +18,5 @@ Regions are differentiated by color.
 - Americas
 
 # Another Take
-Another take on this is available [here](https://public.flourish.studio/visualisation/20634630/).
 
-<img src="https://public.flourish.studio/visualisation/20634630/thumbnail" width="100%" alt="scatter visualization" />
+![](https://github.com/anth3lia/rosling/blob/main/updated.gif)
