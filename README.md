@@ -20,3 +20,4 @@ Regions are differentiated by color.
 # Another Take
 
 ![](https://github.com/anth3lia/rosling/blob/main/updated.gif)
+![](https://github.com/anth3lia/rosling/blob/main/interactions.gif)
